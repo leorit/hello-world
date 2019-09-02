@@ -1,6 +1,7 @@
 # hello-world
 learning
 
-hi humans!
+hi hum
 
-adbskfjnbejfksbvcianfdijksd
+
+hshsgbgnkxzhifksajghfsd
